@@ -1,4 +1,4 @@
-Books Concierge (2018 version)
+Anne Lister Books
 ==============================
 
 * [What is this?](#what-is-this)
@@ -29,9 +29,9 @@ Books Concierge (2018 version)
 What is this?
 -------------
 
-[A snappy looking presentation of NPR contributors' favorite books of the year.](http://apps.npr.org/best-books-2018/)
+A reference for all books and relevant materials about Anne Lister. 
 
-This code is open source under the MIT license. See LICENSE for complete details.
+This app is based on [NPR's fabulous Book Concierge](http://apps.npr.org/best-books-2018/), which has an [open source codebase](https://github.com/nprapps/books18) under the MIT license. 
 
 Assumptions
 -----------
